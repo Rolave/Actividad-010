@@ -1,2 +1,2 @@
-# Actividad-010
+# Actividad 010
 Diagramas de Flujo y Pseudocódigo (Ejercicios PSeInt)
