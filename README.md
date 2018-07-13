@@ -29,6 +29,6 @@ hint: Un número que sólo es divisible por uno y por si mismo es un número pri
 
 ### Ejercicio 5
 
-####Piedra, papel o tijera
+#### Piedra, papel o tijera
 
 * Un usuario ingresa piedra, papel o tijera, el computador escoge una al azar, se debe determinar quien gana.
